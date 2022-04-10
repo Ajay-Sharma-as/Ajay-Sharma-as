@@ -11,7 +11,7 @@ Skills: Data Science/ Machine Learning/ NLP /Computer Vision/ Deep Learning  / M
 - 👯 I’m looking to collaborate on Machine Learning Projects 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Narenderbeniwal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/narender-kumar-0b774a161/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://https://www.linkedin.com/in/ajay-sharma-535443237)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ajay-sharma-535443237/)
 
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
@@ -32,13 +32,8 @@ Skills: Data Science/ Machine Learning/ NLP /Computer Vision/ Deep Learning  / M
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Narenderbeniwal)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Narenderbeniwal&show_icons=true)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ajay-Sharma-as)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<!---
-Ajay-Sharma-as/Ajay-Sharma-as is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
